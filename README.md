@@ -29,7 +29,7 @@ You can configure the plugin to meet your specific needs by adjusting settings s
 
 ### Author
 
-- **Name:** Your Name
+- **Name:** [Kadir Talha Ak](https://github.com/k0d1r/)
 
 ### Version
 
@@ -41,4 +41,4 @@ This plugin is licensed under the [GPLv2 or later](https://www.gnu.org/licenses/
 
 ### Support
 
-For support and inquiries, please contact [Your Name](mailto:your.email@example.com).
+For support and inquiries, please contact [Your Name](mailto:k0d1rtalhaak@gmail.com).
